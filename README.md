@@ -27,13 +27,12 @@ There are also:
 ---
 
 ## Table of Contents
-
-| Module | Description | Link |
-|--------|-------------|------|
-| 1 | Week 1 | [9 lessons](01-lessons/week-1/) |
-| 2 | Week 2 | [8 lessons](01-lessons/week-2/) |
-| 3 | Week 3 | [10 lessons](01-lessons/week-3/) |
-| 4 | Week 4 | [8 lessons](01-lessons/week-4/) |
+| Module | Link |
+|--------|------|
+| Week 1 | <br> • [Introduction](01-Lessons/week-1/01-introduction) <br> • [Machine Learning](01-Lessons/week-1/02-machine-learning) <br> • [What is Data](01-Lessons/week-1/03-what-is-data) <br> • [AI Terminology](01-Lessons/week-1/04-the-terminology-of-ai) <br> • [What makes an AI company](01-Lessons/week-1/05-what-makes-an-ai-company) <br> • [ML Can & Cannot Do](01-Lessons/week-1/06-what-machine-learning-can-and-cannot-do) <br> • [More ML Can & Cannot](01-Lessons/week-1/07-more-about-what-machine-learning-can-and-cannot-do) <br> • [Deep Learning pt1](01-Lessons/week-1/08-non-technical-explanation-of-deep-learning-pt1) <br> • [Deep Learning pt2](01-Lessons/week-1/09-non-technical-explanation-of-deep-learning-pt2) |
+| Week 2 | <br> • [Introduction](01-Lessons/week-2/01-introduction) <br> • [Workflow of ML Project](01-Lessons/week-2/02-workflow-of-a-machine-learning-project) <br> • [Workflow of Data Science Project](01-Lessons/week-2/03-workflow-of-a-data-science-project) <br> • [Every Job Function & Data](01-Lessons/week-2/04-every-job-function-needs-to-know-how-to-use-data) <br> • [Choose AI Project pt1](01-Lessons/week-2/05-how-to-choose-an-ai-project-pt1) <br> • [Choose AI Project pt2](01-Lessons/week-2/06-how-to-choose-an-ai-project-pt2) <br> • [Working with AI Team](01-Lessons/week-2/07-working-with-an-ai-team) <br> • [Technical Tools](01-Lessons/week-2/08-technical-tools-for-ai-team) |
+| Week 3 | <br> • [Introduction](01-Lessons/week-3/01-introduction) <br> • [Case Study: Smart Speaker](01-Lessons/week-3/02-case-study-smart-speaker) <br> • [Case Study: Self-Driving Car](01-Lessons/week-3/03-case-study-self-driving-car) <br> • [Roles of AI Team](01-Lessons/week-3/04-example-roles-of-an-ai-team) <br> • [AI Transformation pt1](01-Lessons/week-3/05-ai-transformation-playbook-pt1) <br> • [AI Transformation pt2](01-Lessons/week-3/06-ai-transformation-playbook-pt2) <br> • [AI Pitfalls](01-Lessons/week-3/07-ai-pitfalls-to-avoid) <br> • [First Steps in AI](01-Lessons/week-3/08-taking-your-first-steps-in-ai) <br> • [AI Application Areas](01-Lessons/week-3/09-survey-of-major-ai-application-areas) <br> • [AI Techniques](01-Lessons/week-3/10-survey-of-major-ai-techniques) |
+| Week 4 | <br> • [Introduction](01-Lessons/week-4/01-introduction) <br> • [A Realistic View of AI](01-Lessons/week-4/02-a-realistic-view-of-ai) <br> • [Discrimination & Bias](01-Lessons/week-4/03-discrimination-bias) <br> • [Adversarial Attacks](01-Lessons/week-4/04-adversarial-attacks-on-ai) <br> • [Adverse Uses of AI](01-Lessons/week-4/05-adverse-uses-of-ai) <br> • [AI & Economies](01-Lessons/week-4/06-ai-and-developing-economies) <br> • [AI and Jobs](01-Lessons/week-4/07-ai-and-jobs) <br> • [Conclusion](01-Lessons/week-4/08-conclusion) |
 
 ---
 
